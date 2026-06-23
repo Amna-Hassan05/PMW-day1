@@ -80,3 +80,24 @@ No additional installation or dependencies are required.
 
 
 ⭐ Thank you for visiting my portfolio project!
+
+
+## AI-Based 3D Scene Reconstruction Research
+
+### Methods Studied
+
+- COLMAP
+- NeRF
+- Gaussian Splatting
+
+### Files Included
+
+```text
+research/3d_methods_comparison.md
+research/tutorial_notes.md
+experiments/hello_python.py
+```
+
+### What I Learned
+
+I explored several modern 3D reconstruction approaches and researched how they could contribute to PreserveMy.World by helping digitally preserve real-world environments and historical sites.
