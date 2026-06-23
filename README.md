@@ -82,7 +82,7 @@ No additional installation or dependencies are required.
 ⭐ Thank you for visiting my portfolio project!
 
 
-## AI-Based 3D Scene Reconstruction Research
+## Day 2 : AI-Based 3D Scene Reconstruction Research
 
 ### Methods Studied
 
@@ -101,3 +101,5 @@ experiments/hello_python.py
 ### What I Learned
 
 I explored several modern 3D reconstruction approaches and researched how they could contribute to PreserveMy.World by helping digitally preserve real-world environments and historical sites.
+
+Note: updates done to the same Repo "PMW-day 1" but are the tasks assigned later
